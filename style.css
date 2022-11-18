@@ -146,7 +146,7 @@ body{
 }
 
 .lista__link a:hover{
-    color: var(--botao-azul);
+    color: #922e8a;
 }
 
 .lista__link a:active{
