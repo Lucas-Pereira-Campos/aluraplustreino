@@ -146,13 +146,16 @@ body{
 }
 
 .lista__link a:hover{
-    color: #922e8a;
+    color: var(--botao-azul);
 }
 
 .lista__link a:active{
     color: red;
 }
 
+.container_botao{
+    color: #7a0657
+}
 
 
 
