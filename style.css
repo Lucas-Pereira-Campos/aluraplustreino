@@ -50,6 +50,12 @@ body{
 
 .container_botao:hover{
     background-color: #6e1c5d;
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao_secundario{
