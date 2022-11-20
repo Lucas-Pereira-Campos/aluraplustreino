@@ -48,6 +48,10 @@ body{
     margin-bottom: 1em;
 }
 
+.container_botao:hover{
+    background-color: #6e1c5d;
+}
+
 .botao_secundario{
     background-color: transparent;
     border: 2px solid var(--branco-principal);
@@ -153,9 +157,7 @@ body{
     color: red;
 }
 
-.container_botao:hover{
-    color: #7a0657
-}
+
 
 
 
